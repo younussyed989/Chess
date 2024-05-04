@@ -18,7 +18,7 @@ The entry point is `src/main/java/scenes`
 
 ```
 cd chess
-gradle execute
+./gradle execute
 ```
 
 Or import into intellj/eclipse as a gradle project.
