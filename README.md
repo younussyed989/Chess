@@ -1,8 +1,5 @@
 ## Chess
 
-### Credits
-Created by Younus syed 
-
 Most of the files are for the azurite engine which is our graphics framework.
 The files for chess are in `src/main/java/network`
 and in `src/main/java/scenes`
